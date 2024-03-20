@@ -1,4 +1,6 @@
-# Rsbuild Project
+# react-web-dictaphone
+
+ReactJS version of demo app for MediaStream Recording API found [here](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API)
 
 ## Setup
 
@@ -27,4 +29,3 @@ Preview the production build locally:
 ```bash
 pnpm preview
 ```
-# react-web-dictaphone
