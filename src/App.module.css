@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  color: #fff;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  @apply bg-gradient-to-b from-[#a3bff6] to-[#101725];
+}
+
+.content {
+  @apply flex flex-col justify-center text-center min-h-screen;
+  line-height: 1.1;
+}
+
+.content h1 {
+  @apply text-[3.6rem] font-bold;
+}
+
+.content p {
+  @apply opacity-50 font-light text-xl;
+}
