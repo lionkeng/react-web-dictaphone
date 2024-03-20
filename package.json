@@ -5,7 +5,7 @@
   "homepage": "https://lionkeng.github.io/react-web-dictaphone",
   "scripts": {
     "predeploy": "rsbuild build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "rsbuild dev --open",
     "build": "rsbuild build",
     "preview": "rsbuild preview"

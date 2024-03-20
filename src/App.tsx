@@ -1,4 +1,3 @@
-import './index.css'
 import classes from './App.module.css'
 const App = () => {
   return (
